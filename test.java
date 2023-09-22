@@ -1,3 +1,11 @@
+class Main-Code
+{
+   **** Main-Code ****
+   **** Main-Code ****
+   **** Main-Code ****
+   **** Main-Code ****
+}
+
 class Test
 {
    public static void main(..)
