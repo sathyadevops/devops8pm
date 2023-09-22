@@ -6,6 +6,14 @@ class Main-Code
    **** Main-Code ****
 }
 
+class Branch-Code
+{
+   ::::: Branch-Code :::::
+   ::::: Branch-Code :::::
+   ::::: Branch-Code :::::
+   ::::: Branch-Code :::::
+}
+
 class Test
 {
    public static void main(..)
