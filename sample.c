@@ -13,7 +13,12 @@ void code-B()
    :::: CODE-B :::
 }
 
-
+void code-C()
+{
+   :::: CODE-C :::
+   :::: CODE-C :::
+   :::: CODE-C :::
+}
 
 
 
