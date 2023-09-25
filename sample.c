@@ -6,6 +6,12 @@ void code-A()
    :::: CODE-A :::
 }
 
+void code-B()
+{
+   :::: CODE-B :::
+   :::: CODE-B :::
+   :::: CODE-B :::
+}
 
 
 
