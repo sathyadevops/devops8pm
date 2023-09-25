@@ -4,7 +4,10 @@ class Circle
    {
       a = pi * r * r;
    }	   
-
+   void peri()
+   {
+      a = 2 * pi * r;
+   }
 }
 
 
