@@ -1,3 +1,36 @@
+class Circle
+{
+   void area()
+   {
+      a = pi * r * r;
+   }	   
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 class Test-Tools
 {
    *** SE / JUNIT ****
